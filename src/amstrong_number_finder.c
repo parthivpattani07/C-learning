@@ -39,6 +39,7 @@ for(int x=l;  x<=r ;x++){
 			
 	}
 return 0;
+}
 """
 input:
 100  500
