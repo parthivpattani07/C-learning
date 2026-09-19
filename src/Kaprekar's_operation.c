@@ -1,5 +1,6 @@
-"""This program (written without using arrays and any extra libraries),
-  performs Kaprekar's operation on a givien 4 digit number and gives number of iterations it took to get there.."""
+"""
+This program (written without using arrays and any extra libraries), performs Kaprekar's operation on a givien 4 digit number and gives number of iterations it took to get there.
+	"""
 #include<stdio.h>
 
 
