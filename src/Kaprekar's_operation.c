@@ -72,5 +72,6 @@ int main()
 		}
 	printf("Reached 6174 in %d iterations.",i);
 	}
+return 0;
 
 }
